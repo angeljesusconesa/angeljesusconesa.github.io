@@ -7,7 +7,7 @@
 
 ## 🔗 Project Links
 
-* **Live Website (GitHub Pages):** [Insert your GitHub Pages URL here]
+* **Live Website (GitHub Pages):** 
 * **Figma Design Proposal:** https://www.figma.com/design/SJxERoosUmWAv32hf5u11d/CV?m=auto&t=YWcCQ6Fhd9aHYnIk-1
 
 ---
