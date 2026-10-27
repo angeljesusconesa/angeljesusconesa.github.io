@@ -178,7 +178,6 @@ a { color: inherit; }
 .section {
   position: relative;
   padding: 40px 60px;
-  min-height: 600px;
   display: flex;
   flex-direction: column;
   gap: 30px;
